@@ -1,5 +1,5 @@
 # hello-world
 To learn how to create a repository
 
-Hi :)
+Hi :),
 I'm Andrea & I love cats!
